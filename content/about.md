@@ -5,7 +5,7 @@ draft: false
 slug: "about"
 ---
 
-# Sobre ATICA
+# Sobre ATICA SAC
 
 **Proyecto ATICA** es una prueba de hugo.
 
