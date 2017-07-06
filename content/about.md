@@ -7,12 +7,9 @@ slug: "about"
 
 # Sobre ATICA SAC
 
-**Proyecto ATICA** es una prueba de hugo.
+**Proyecto ATICA** es una prueba de creación de páginas estáticas.
 
 Se probará en la web.
 
 Atención..
-{{< youtube 1LZ99QeDDnc >}}
-<caption><a href="https://www.youtube.com/channel/UC-XvqQUMHbAMl0X3NlsruHw" target="_blank">youtube</a></caption>
-
-\m/
+{{< youtube BWmBOcavAQc >}}
